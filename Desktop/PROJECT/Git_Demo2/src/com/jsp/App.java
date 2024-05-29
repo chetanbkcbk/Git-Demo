@@ -1,5 +1,4 @@
 package com.jsp;
 
-public class App {
-//added feature 1
+public class App{
 }
